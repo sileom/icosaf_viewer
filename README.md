@@ -1,5 +1,5 @@
 # Realsense D435 viewer + Background subtraction
-ROS node for visualizing data coming from an Intel RealSense R435 device and running the baskground subtraction
+ROS node for visualizing data coming from an Intel RealSense R435 device and running the background subtraction
 
 ## Reference
 
