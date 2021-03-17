@@ -1,0 +1,3 @@
+<launch>
+    <node name="icosaf_viewer" pkg="icosaf_viewer" type="icosaf_viewer" output="screen"/>
+</launch>
